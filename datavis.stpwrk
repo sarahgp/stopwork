@@ -1,0 +1,108 @@
+// intro
+
+# d3, design & datavis
+
+### I'm Sarah Groff-Palermo
+
+http://cl.ly/image/2U2T051n003c
+http://sarahgp.com/timeline/
+## Industry + Academia
+http://cl.ly/image/3j0D0X0n1j3Y
+## Approaches to Programming
+http://i.giphy.com/fuQI0IYqADwfm.gif
+1: Be brave and break things
+2: Copy without compunction
+3: Leave enough time
+4: Ask for help
+## Information Design Basics
+http://i.giphy.com/wXSpFSwDzpy80.gif
+
+http://publishenemy.files.wordpress.com/2012/04/tufte.png?w=584&h=366
+
+http://ecx.images-amazon.com/images/I/31Drlf3dfSL.jpg
+
+http://www.informationisbeautiful.net/visualizations/mountains-out-of-molehills/
+
+http://52weeksofux.com/post/963764999/chart-junk-isnt-as-bad-as-you-think
+
+http://infosthetics.com/
+
+We can say a *few* things for sure.
+
+# DON'T
+1: Don't put too much on one screen
+http://i.imgur.com/WntrM6p.jpg?fb
+
+2: Don't use pies and donuts thoughtlessly ... but you don't have to avoid them, either
+http://cl.ly/image/3w3L1I352k3v
+http://cl.ly/image/2c2p1J3b2D2a
+http://cl.ly/image/0g3v3J3p0n0N
+
+3: Don't use a map just because your data has a geographic component
+http://imgs.xkcd.com/comics/heatmap.png
+
+4: Don't assume your audience knows what you know
+http://bl.ocks.org/mbostock/4063582
+
+# DO :D
+
+1: Give context and overviews
+http://nvd3.org/livecode/index.html#codemirrorNav
+2: Use color to call out important data without overwhelming
+http://cl.ly/image/0c0x0V0F3e3w
+http://3.bp.blogspot.com/-wAJo6GQg3D4/U4vf9IPYJSI/AAAAAAAAGRo/ROjteLYhcLc/s1600/Carp+State+Records.jpg
+3: Use coordinated small multiples
+http://projects.flowingdata.com/timeuse/
+4: Feel free to show uncertainty
+http://cl.ly/image/0u162K3y3T2r
+5: Feel free to make inventive choices
+http://cl.ly/image/0g3v3J3p0n0N
+
+## And the most important DO ... 
+Consider your audience
+### How will they navigate through the data?
+http://payload69.cargocollective.com/1/2/73490/3682599/modes_o.gif
+
+# E.g.
+http://cl.ly/image/2j1T0n3H3J3C
+[go to DN-force](http://localhost:2100/)
+http://sarahgp.github.io/DN-Sunburst/
+http://bost.ocks.org/mike/hive/
+
+# THE WEB
+http://i.giphy.com/XBViMNLFJqjPW.gif
+
+[drawing!]()
+
+[Let's get our scaffolding ready](https://github.com/sarahgp/cuny-examples)
+
+// d3!
+# D3!
+## d3 = drawing
+https://dl.dropboxusercontent.com/u/6594025/dancebot.gif
+http://i.giphy.com/iLsDDqQYZJWpy.gif
+http://bl.ocks.org/zanarmstrong/raw/e2d22ae47d24179b574c/
+http://localhost:1111/
+
+[dig in](http://localhost:1111/)
+
+1: Importing the data
+2: Setting up the canvas & margins
+3: Enter and append
+## Exercises 1 & 2
+4: Drawing, scales, callbacks & colors   
+## Exercises 3 & 4
+5: Axes
+6: Interactivity (hovers & clicks)
+## Exercises 5 & 6
+
+
+# Libraries
+http://nvd3.org/
+http://dimplejs.org/
+http://trifacta.github.io/vega/
+[d3py](https://github.com/mikedewar/d3py)
+
+# Resources
+http://chimera.labs.oreilly.com/books/1230000000345/
+http://sarahgp.com/cuny
